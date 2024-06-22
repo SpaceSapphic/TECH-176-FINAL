@@ -2,3 +2,4 @@
 MACHINE LEARNING FINAL
 PAPER DESCRIBES PROJECT IN MORE DETAIL
 REPOSITORY "PHISHING WEBSITES" FROM UC IRVINE MACHINE LEARNING REPOSITORY
+https://www.semanticscholar.org/paper/An-assessment-of-features-related-to-phishing-using-Mohammad-Thabtah/0c0ff58063f4e078714ea74f112bc709ba9fed06
